@@ -1,0 +1,5 @@
+{
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "vscode.css-language-features",
+  "editor.formatOnSave": true
+}
